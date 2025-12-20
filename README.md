@@ -54,7 +54,7 @@
 ## 🌟 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/saloni-chauhan1101/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/adhiraj2005/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/salonichauhan1101"><img src="https://img.shields.io/badge/GitHub-Profile-lightgrey?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
