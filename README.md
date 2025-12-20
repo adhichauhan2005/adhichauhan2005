@@ -1,5 +1,5 @@
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Adhiraj%20Singh%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Software%20Engineer%20|%20MS%20CS%20at%20Northeastern%20University&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20I'm%20Adhiraj%20Singh%20Chauhan%20👋&fontSize=35&fontAlignY=40&desc=Data%20Scientist%20|%20Btech%20CS%20at%20Manipal%20University%20Jaipur&descSize=20&descAlignY=55)
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
