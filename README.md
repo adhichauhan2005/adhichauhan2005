@@ -8,23 +8,19 @@
 
 ## 🚀 About Me
 
-🎯 **Software Engineer | Master of Science in CS at Northeastern University**  
+🎯 **Data Scientist**  
 🔍 Actively **seeking internship & full-time opportunities** in **Software Development, Data Engineering, or Cloud Computing**  
-💡 Passionate about **Full Stack Development, AI/ML, and Cloud Technologies**  
-🌎 Currently based in **Boston, MA, USA**  
-📬 Reach me at **[chauhan.sal@northeastern.edu](mailto:chauhan.sal@northeastern.edu)**  
+💡 Passionate about **Data Science/Analyst, AI/ML, and Cloud Technologies**  
+🌎 Currently based in **Jaipur, India**  
+📬 Reach me at **[adhirajchauhan2005@gmail.com](mailto:adhirajchauhan2005@gmail.com)**  
 
 ---
 
 ## 🏆 My Journey
 
-👨‍🎓 **Education:**  
-- **MS in Computer Science** - Northeastern University, Boston _(2024 - Present)_  
-- **B.Tech in Computer Science & Engineering** - Mody University, India _(2016 - 2020)_
+👨‍🎓 **Education:**   
+- **B.Tech in Computer Science & Engineering (Data Science)** - Manipal University Jaipur _(2024-2028)_
 
-💼 **Past Roles:**  
-- **Application Development Analyst @ Accenture**  
-- **Software Development Intern @ Ultratech Cement Ltd**  
   
 
 🛠 **Notable Work:** Developed a **LMS Platform**, **Investment Portfolio Simulator**, and **Bird Strike Analysis Tool**  
