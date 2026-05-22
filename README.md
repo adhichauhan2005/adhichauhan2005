@@ -21,9 +21,6 @@
 👨‍🎓 **Education:**   
 - **B.Tech in Computer Science & Engineering (Data Science)** - Manipal University Jaipur _(2024-2028)_
 
-  
-
-🛠 **Notable Work:** Developed a **LMS Platform**, **Investment Portfolio Simulator**, and **Bird Strike Analysis Tool**  
 🌟 **Future Goals:** To contribute to **cutting-edge tech** and build **impactful solutions**
 
 ---
