@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Adhiraj%20Singh%20Chauhan&fontSize=35&fontAlign=50&fontAlignY=40&desc=👋%20Data%20Scientist%20%7C%20Btech%20CS%20at%20Manipal%20University%20Jaipur&descSize=20&descAlign=50&descAlignY=65)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there!%20I'm%20Adhiraj%20Singh%20Chauhan&fontSize=35&fontAlign=50&fontAlignY=40&desc=👋%20Data%20Scientist%20%7C%20BTech%20CSE%20at%20Manipal%20University%20Jaipur&descSize=20&descAlign=50&descAlignY=65)
 
 
 
